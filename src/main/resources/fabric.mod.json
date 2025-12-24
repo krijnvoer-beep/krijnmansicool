@@ -1,16 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "oyvey",
+  "id": "krijnmaniscool",
   "version": "${version}",
-  "name": "oyvey-ported",
-  "description": "free and opensource client base",
+  "name": "krijnmaniscool",
+  "description": "THE clan cheat",
   "authors": [
-    "3arthqu4ke",
-    "alpha432",
-    "cattyn"
+    "krijn",
   ],
   "contact": {
-    "repo": "https://github.com/mioclient/oyvey-ported"
+    "discord": "krijnmaniscool1"
   },
   "license": "MIT",
   "environment": "client",
