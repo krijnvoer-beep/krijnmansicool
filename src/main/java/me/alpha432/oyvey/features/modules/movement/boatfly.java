@@ -2,12 +2,12 @@
 import net.minecraft.util.Mth;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.phys.Vec3;
-import net.wurstclient.Category;
-import net.wurstclient.SearchTags;
-import net.wurstclient.events.UpdateListener;
-import net.wurstclient.hack.Hack;
-import net.wurstclient.settings.CheckboxSetting;
-import net.wurstclient.settings.SliderSetting;
+import me.alpha432.Category;
+import me.alpha432.SearchTags;
+import me.alpha432.events.UpdateListener;
+import me.alpha432.hack.Hack;
+import me.alpha432.settings.CheckboxSetting;
+import me.alpha432.settings.SliderSetting;
 
 @SearchTags({"boat fly", "BoatFlight", "boat flight", "EntitySpeed",
 	"entity speed"})
